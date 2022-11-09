@@ -5,7 +5,6 @@ I'm Shease, a small Developer and Content Creator on Youtube. I Spend most of ti
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m coding on Replit
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - ⚡ Fun fact: I play games and code very often.
 
